@@ -13,7 +13,7 @@
 
 ## Cloud Native Infrastructure
 * [Understanding Cloud Native Infrastructure: Interview with Justin Garrison and Kris Nova](https://www.infoq.com/articles/cloud-native-infrastructure)
-* [Book on cloud native Infrastructure - Cloud Native Infrastructure: Patterns for Scalable Infrastructure and Applications in a Dynamic Environment by Justin Garrison and Kris Nova  (Author)](https://www.amazon.com/Cloud-Native-Infrastructure-Applications-Environment/dp/1491984309)
+* Book on cloud native Infrastructure - [Cloud Native Infrastructure: Patterns for Scalable Infrastructure and Applications in a Dynamic Environment by Justin Garrison and Kris Nova  (Author)](https://www.amazon.com/Cloud-Native-Infrastructure-Applications-Environment/dp/1491984309)
 
 
 ## Cloud Native Data
