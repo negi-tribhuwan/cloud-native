@@ -5,11 +5,6 @@
 * [The Cloud-Native Architecture: One Stack, Many Options](https://thenewstack.io/cloud-native-architecture-one-stack-many-options/)
 
 
-## Books:
-* [The InfoQ eMag: Cloud Native Patterns & Practices](https://www.infoq.com/minibooks/emag-cloud-native)
-* [Book from Matt Stine : Migrating to Cloud-Native Application Architectures](http://www.oreilly.com/programming/free/migrating-cloud-native-application-architectures.csp)
-
-
 
 ## Cloud Native Infrastructure
 * [Understanding Cloud Native Infrastructure: Interview with Justin Garrison and Kris Nova](https://www.infoq.com/articles/cloud-native-infrastructure)
@@ -18,3 +13,10 @@
 
 ## Cloud Native Data
 * [What Is "Cloud-Native" Data and Why Does It Matter?](https://www.infoq.com/articles/cloud-native-data)
+
+
+## Books:
+* [The InfoQ eMag: Cloud Native Patterns & Practices](https://www.infoq.com/minibooks/emag-cloud-native)
+* [Book from Matt Stine : Migrating to Cloud-Native Application Architectures](http://www.oreilly.com/programming/free/migrating-cloud-native-application-architectures.csp)
+
+
