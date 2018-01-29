@@ -5,5 +5,5 @@
 
 
 ## Books:
-* [Book from Mat Stine : Migrating to Cloud-Native Application Architectures](http://www.oreilly.com/programming/free/migrating-cloud-native-application-architectures.csp)
+* [Book from Matt Stine : Migrating to Cloud-Native Application Architectures](http://www.oreilly.com/programming/free/migrating-cloud-native-application-architectures.csp)
 * [Cloud Native Infrastructure: Patterns for Scalable Infrastructure and Applications in a Dynamic Environment by Justin Garrison and Kris Nova  (Author)](https://www.amazon.com/Cloud-Native-Infrastructure-Applications-Environment/dp/1491984309)
