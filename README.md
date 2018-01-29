@@ -1,7 +1,7 @@
-# cloud-native
+# cloud-native (Cloud Native Infrastructure(CNI)  and Cloud Native Application(CNA))
 ## Articles and Presentations
 * [Discussion on cloud native from the experts - Defining Cloud Native: A Panel Discussion](https://www.infoq.com/articles/cloud-native-panel)
-* 
+* Building block of CNA [The 12 Factor App](https://12factor.net/)
 * [The Cloud-Native Architecture: One Stack, Many Options](https://thenewstack.io/cloud-native-architecture-one-stack-many-options/)
 
 
